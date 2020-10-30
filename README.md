@@ -11,3 +11,8 @@ instead of two for loops, keeps a dictionary to store its complement
 
 3. 53-Maximum Subarray \
 [dp](https://www.youtube.com/watch?v=2MmGzdiKR9Y)
+
+3. 167-Two Sum II - Input array is sorted \
+Two pointer method 
+
+4.
